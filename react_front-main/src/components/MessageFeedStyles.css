@@ -1,0 +1,26 @@
+.feedContainer {
+    background-color: #e9e2e2;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.logoutButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.feedWrapper {
+    margin-top: 80px;
+    width: 750px;
+}
+
+.feedCard {
+    margin-bottom: 10px;
+    width: 100%;
+}

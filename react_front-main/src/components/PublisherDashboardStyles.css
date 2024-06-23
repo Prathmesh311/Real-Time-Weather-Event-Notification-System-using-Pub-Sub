@@ -1,0 +1,18 @@
+.mainContainer{
+    background-color:#e9e2e2;
+    background-size: cover;
+    background-position: center;
+}
+.centered {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoutBtn{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+}
